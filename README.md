@@ -1,5 +1,5 @@
 # Projeto de TPW
-
+Grade : 18.2
 ## Descrição:
 
 Este projeto foi desenvolvido no âmbito da uc [Tecnologias e Programação Web]. O objetivo do projeto é desenvolver uma aplicação web em Django na qual aplicamos o que aprendemos ao longo das aulas.
